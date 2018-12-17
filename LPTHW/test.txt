@@ -1,0 +1,2 @@
+This is a text file.This is stored in from_file_
+#This is py17.py
